@@ -17,6 +17,6 @@ CMD ["apachectl", "-D", "FOREGROUND"]
 
 
 # docker run --name vaccination -d -p 80:80 -v /home/ubuntu/Docker:/var/www/html vaccination
-
+# to enable php, refer to https://falsy.me/docker-1-docker로-ubuntu-apache-php-환경의-이미지-만들기/
 
 
